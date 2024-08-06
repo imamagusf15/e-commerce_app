@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "708261613694",
+    "project_id": "rubiks-shop",
+    "storage_bucket": "rubiks-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708261613694:android:9caa5002df393d4316c82f",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708261613694-0tqc6it0gtl23o3gvebrhvnb55iaasrc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_commerce_app",
+            "certificate_hash": "d1a92f7f0e095003492c128271b8886d032a1013"
+          }
+        },
+        {
+          "client_id": "708261613694-qhndcjl8g6dmv4co0s598129ub3rm6mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC2dMG204lBKF1t3OAdfi1tlPpmhA8VFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708261613694-qhndcjl8g6dmv4co0s598129ub3rm6mg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
